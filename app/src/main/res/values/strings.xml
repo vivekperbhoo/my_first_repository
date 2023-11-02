@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Labratory4</string>
+    <string name="app_title">Soccer Team Manager</string>
+    <string name="name_hint">Please enter a team name.</string>
+    <string name="name_label">Team Name</string>
+    <string name="address_hint">Please enter a postal code.</string>
+    <string name="address_label">Postal Code</string>
+    <string name="button_text">Open in Google Maps</string>
+    <string name="new_avatar_title">Select New Logo</string>
+    <string name="button_submit">Submit</string>
+</resources>
